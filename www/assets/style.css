@@ -27,3 +27,7 @@ md-card-content.terminal {
     color: #1da4eb;
     text-align: center;
 }
+
+.disconnected {
+    background-color: #efefef;
+}
